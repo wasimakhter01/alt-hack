@@ -7,22 +7,12 @@
 # ---------------------------------------------------
 
 # 1. Set the path to the downloaded Hack repo here first
-HACK_PATH=""
+HACK_PATH="/home/user01/alt-hack-wip/Hack"
 
 # 2. List your alternate glyphs here
 declare -a alternates=(
-    "u00EC-slab"
-    "u00ED-slab"
-    "u00EF-slab"
-    "u012B-slab"
-    "u012D-slab"
-    "u012F-slab"
-    "u0030-diamond"
-    "u0069-slab"
-    "u0129-slab"
-    "u0131-slab"
-    "u0456-slab"
-    "u0457-slab"
+    "u0030-forwardslash" # zero with forward slash 
+    "u0069-slab" # letter i with slab
 )
 
 # 3. Run this script and enjoy!
